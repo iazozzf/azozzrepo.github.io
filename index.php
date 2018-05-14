@@ -1,0 +1,374 @@
+<!-- 
+
+by : Azozz ALFiras
+
+twitter : @A1iraQi
+
+download : wwww.azozztmp.com
+ 
+-->
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="keywords" content="istore,Azozz ALFiras,scothman,apps plus">
+    <meta name="description" content="متجر للاشتراك في تطبيقات البلس  والالعاب المهكرة">
+    <title>iSTORE</title>
+    
+    <!-- FILE CSS -->
+ <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="iSTORE" content="Azozz ALFiras">
+<meta name="اول تطبيق عربي عراقي يجمع جميع القنوات المشفرة المهمة والرياضة الافلام- والمسلسلات وايضا تنهتم في الاطفال يجمعها لك ">
+        <title>Azozz STORE</title>
+        <meta name="description" content="Azozz ALFiras">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/bootstrap.css">
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/animate.css">
+        <link rel="stylesheet" href="font.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+    
+
+</head>
+    
+    
+    <body class="Azozz">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    <div class="row">
+        <div class="header">
+           <h1 class="wow slideInLeft"> iSTORE</h1> 
+            <hr class="wow rollIn">
+            <p class="wow slideInRight">متجر للتطبيقات البلس والالعاب المهكرة وغيرهااااااااا</p>
+        </div>
+        <div class="meun-store">
+        <center>
+            <br>
+            <br>
+        <p><a class="mode-store-azozztmp wow slideInRight" href="#mode-store-azozztmp" data-scroll="" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: slideInRight;" >  ميزات المتجر  <i class="fa fa-angellist" aria-hidden="true"></i> </a></p>
+            <br><br><br>
+   <a class="vip-plus wow slideInLeft" href="" data-toggle="modal" data-target="#myModal1" data-scroll="" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: slideInLeft;"  >  شروط الاشتراك من هنا  <i class="fa fa-share-square" aria-hidden="true"></i> </a>
+            <br><br><br><br>
+             <p><a class="mode-store-azozztmp wow fadeInUp" href="udid" data-scroll="" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;" > طلب اشتراك <i class="fa fa-plus" aria-hidden="true"></i> </a></p>
+            <br><br><br>
+            
+<p class="wow slideInRight woaz" > سعر الاشتراك : 37 ريال</p>
+            </center>
+        </div>
+        </div>
+        
+        
+        <section id="mode-store-azozztmp" class="top-azozztmp">
+            <br>
+        <div class="row">
+            <p class="wow slideInRight"> ميزات المتجر </p>
+            <hr class="wow rollIn" width="40%">
+            <!-- mode store Azozz TMP -->
+           <div class="col-md-3 wow fadeInUp">
+               <div class="mode-store">
+            <b class="icon-azozztmp"><i class="fa fa-bell"></i></b>
+               <h4 class="wow slideInRight">اشعارات في التطبيقات</h4>
+                   <p class="wow slideInLeft"> التطبيقات الاساسية تدعم الاشعارات </p>
+                </div>
+            </div>
+            <!-- mode store Azozz TMP -->
+            
+            
+             <!-- mode store Azozz TMP -->
+           <div class="col-md-3 wow fadeInUp">
+               <div class="mode-store">
+            <b class="icon-azozztmp"><i class="fa fa-comments"></i></b>
+               <h4 > دعم فني </h4>
+                   <p> يتواجد دعم فني 24/7 </p>
+                </div>
+            </div>
+            <!-- mode store Azozz TMP -->
+            
+            
+             <!-- mode store Azozz TMP -->
+           <div class="col-md-3 wow fadeInUp">
+               <div class="mode-store">
+            <b class="icon-azozztmp"><i class="fa fa-repeat"></i></b>
+               <h4> تحديث مستمر </h4>
+                   <p>   تحديث التطبيقات بشكل مستمر  </p>
+                </div>
+            </div>
+            <!-- mode store Azozz TMP -->
+              
+            
+            <!-- mode store Azozz TMP -->
+           <div class="col-md-3 wow fadeInUp">
+               <div class="mode-store">
+            <b class="icon-azozztmp"><i class="fa fa-exclamation-triangle"></i></b>
+               <h4>  بدون اعلانات </h4>
+                   <p>   التطبيقات لاتتوفر فيها اعلانات  </p>
+                </div>
+            </div>
+            <!-- mode store Azozz TMP -->
+              
+            
+             <!-- mode store Azozz TMP -->
+           <div class="col-md-3 wow fadeInUp">
+               <div class="mode-store">
+            <b class="icon-azozztmp"><i class="fa fa-cloud-upload"></i></b>
+               <h4>  رفع تطبيقات </h4>
+                   <p>   يمكنك طلب توفير تطبيق غير متوفر في المتجر  </p>
+                </div>
+            </div>
+            <!-- mode store Azozz TMP -->
+            
+            
+             <!-- mode store Azozz TMP -->
+           <div class="col-md-3 wow fadeInUp">
+               <div class="mode-store">
+            <b class="icon-azozztmp"><i class="fa fa-cloud-download"></i></b>
+               <h4>  تحميل التطبيقات </h4>
+                   <p>  سهولة تحميل التبيقات والالعاب الخاص في جهازك   </p>
+                </div>
+            </div>
+            <!-- mode store Azozz TMP -->
+              
+                    <!-- mode store Azozz TMP -->
+           <div class="col-md-3 wow fadeInUp">
+               <div class="mode-store">
+            <b class="icon-azozztmp"> <i class="fa fa-rocket" aria-hidden="true"></i> </b>
+               <h4>  التفعيل </h4>
+                   <p>  يستغرق التفعيل من 5 دقايق الى 24 ساعة  </p>
+                </div>
+            </div>
+            <!-- mode store Azozz TMP -->
+            
+            
+                       <!-- mode store Azozz TMP -->
+           <div class="col-md-3 wow fadeInUp">
+               <div class="mode-store">
+            <b class="icon-azozztmp"><i class="fa fa-diamond" aria-hidden="true"></i> </b>
+               <h4>  سعر الاشتراك </h4>
+                   <p> لدينا سعر في الاشتراك رمزي  </p>
+                </div>
+            </div>
+            <!-- mode store Azozz TMP -->
+             
+            
+        </div>
+        </section>
+        
+       <br><br> <br><hr class="wow rollIn"><br><br><br>
+        
+        <section>
+        <div class="row">
+            <p > الحسابات البنكية </p>
+            
+            <hr class="wow rollIn" width="40%">
+            <!--  Bank store -->
+            <div class="col-md-6 wow fadeInUp">
+            <div class="banks">
+            <img src="imgae/ri.png" class="wow slideInDown">
+                <hr>
+                <div class="info-bank wow slideInLeft">
+                <p> اسم  البنك  : <span> راجحي </span> </p>
+                <p> اسم صاحب الحساب  : <span>هاشم الناصر</span> </p>
+                <p> رقم الحساب : <span>210608012003121</span> </p>
+
+                </div>
+            </div>
+            </div>
+            <!--  Bank store -->
+            
+                        <!--  Bank store -->
+            <div class="col-md-6 wow fadeInUp">
+            <div class="banks">
+            <img src="imgae/paypal.png" class="wow slideInDown">
+                <hr class="wow rollIn">
+                <div class="info-bank wow slideInLeft">
+                <p> اسم  البنك  : <span >بايبال </span> </p>
+                <p> اسم صاحب الحساب  : <span>عزوز الفراس</span> </p>
+                <p> رقم الحساب : <span><a style="color: #eee;" href="https://paypal.me/Azozz">من هنا</a></span> </p>
+                </div>
+            </div>
+            </div>
+            <!--  Bank store -->
+            
+            </div>
+        </section>
+
+        
+        
+             <!-- Modal -->
+     <div id="myModal1" class="modal fade" role="dialog" style="display: none;">
+       <div class="modal-dialog">
+
+         <!-- Modal content-->
+         <div class="modal-content text-center">
+           <div class="modal-header">
+             <button type="button" class="close" data-dismiss="modal">×</button>
+             <h4 class="modal-title">الرجاء قراءة الشروط بعناية قبل طلب الاشتراك</h4>
+           </div>
+           <div class="modal-body wow fadeInUp">
+            <p>❖ لا يمكنك نقل الاشتراك  إلى جهاز آخر ❖</p>
+             <p>❖  يتم التعويض في حال اغلقت الشهادة من ابل واشتراكك لم يتجاوز ٣اشهر مره واحدة ❖</p>
+             <p>❖بعد مرور ٣ اشهر من اشتراكك وانحظرت الشهادة تحتاج اشتراك جديد❖</p>
+             <p>❖udid لا يمكن استرجاع المبلغ بعد اضافة ❖</p>
+             <p>❖ لا يحق لك إسترجاع الرسوم بعد الدفع ❖</p>
+             <p>❖ التسجيل لمده سنة في حساب آبل للمطورين ❖</p>
+             <p>❖ عندالرغبه في تفعيل لجهاز جديد يحتاج اشتراك جديد❖</p>
+             <p>❖تستطيع عمل فورمات لجهازك دون مشاكل❖</p>
+             <p> الاشتراك الجديد بـ ٧٠ ريال ❖</p>
+             <p>❖  التفعيل يستغرق من ٦ ساعات الي ١٢ ساعة  ❖</p>
+             <p>❖ تحميل السناب بلس تحت مسؤليتك قد يحجب حسابك من قبل شركة السناب ❖</p>
+             <p>❖برامج البلس الأساسية تدعم الاشعارات بشكل كامل   ❖</p>
+  
+             
+           </div>
+           <div class="modal-footer">
+             <button type="button" class="done" data-dismiss="modal">الالغاء</button>
+               
+           </div>
+         </div>
+
+       </div>
+     </div>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <br><br>
+     <footer>
+        <div class="row">
+         <p  class="wow fadeInUp"><a href="#">iSTORE </a>  جميع الحقوق محفوظة ل  </p>
+            
+            <div  class="social-media wow fadeInUp">
+<ul id="social-top">
+<li>
+<a href="https://www.instagram.com/a1iraqi_">
+<i class=" fa fa-instagram"></i>
+</a>
+</li>
+<li>
+<a href="https://t.me/pro1irq">
+<i class=" fa fa-whatsapp whatsapp"></i>
+</a>
+</li>
+<li>
+<a href="https://plus.google.com/+AboodHaker">
+<i class="fa fa-snapchat snapchat"></i>
+</a>
+</li>
+<li>
+<a href="https://www.facebook.com/pro1iq/">
+<i class="fa fa-facebook"></i>
+</a>
+</li>
+<li>
+<a href="https://www.youtube.com/channel/UCuDQfy_U4dpinvfB4nmmQog">
+<i class="fa fa-youtube"></i>
+</a>
+</li>
+<li>
+<a href="https://twitter.com/pro1iq">
+<i class="fa fa-twitter"></i>
+</a>
+</li>
+</ul>
+<br><br>
+</div>
+            <br><br>
+            
+         </div>
+        
+    </footer>   
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <!-- FILE JAVASCRIPT -->
+       
+        <script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+        <script type="text/javascript" src="js/bootstrap.js"></script>
+        <script src="js/jquery-3.1.1.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        
+           <script src="js/wow.min.js"></script>
+              <script>
+              new WOW().init();
+              </script>
+        
+       
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+<!-- Modal -->
+<div class = "modal fade" id = "myModal" tabindex = "-1" role = "dialog" 
+   aria-labelledby = "myModalLabel" aria-hidden = "true">
+   
+   <div class = "modal-dialog">
+      <div class = "modal-content">
+         
+         <div class = "modal-header">
+            <button type = "button" class = "close" data-dismiss = "modal" aria-hidden = "true">
+               ×
+            </button>
+            
+            <h4 class = "modal-title" id = "myModalLabel">
+                اهلا وسهلا تابعوني سناب
+           <i class="fa fa-snapchat"></i>
+             </h4>
+         </div>
+         
+         <div class = "modal-body">
+            <p> يجب قرأء شروط الاشتراك  </p>
+             <p >تابعوني على السناب شات</p>
+           <img width="100%" src="imgae/snapcode.svg">
+         </div>
+         
+         <div class = "modal-footer">
+          
+            
+            <button type="button" class="add-snpa">
+               <a href="https://snpachat.com/add/a1iraqi">  <i class="fa fa-plus"></i>  اضافة </a>
+            </button>
+               <button style="font-size: 15px;padding: 8px 20px;" type="button" class="btn btn-default" data-dismiss = "modal">
+               <i class="fa fa-close"></i>  لا شكرا
+            </button>
+         </div>
+         
+      </div><!-- /.modal-content -->
+   </div><!-- /.modal-dialog -->
+   
+</div><!-- /.modal -->
+
+<script>
+   $(function () { $('#myModal').modal({
+      keyboard: true
+   })});
+</script>
+
+    </body>
+</html>
